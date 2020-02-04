@@ -1,0 +1,43 @@
+NAME: Parham Hajzavar
+EMAIL: parhamzavar@gmail.com
+ID: 405181239
+SLIPDAYS: 0
+
+The files included in this tar file are described as follows:
+
+lab1a.c:
+This is the file where everything obviously takes place. Termios, forking, parent and child processes, reading/writing, polls...
+
+Makefile:
+I used this to run (using gcc), tar, and clean other files.
+
+Obstacles:
+
+Many. This was a tough lab. I started it early and still took a very long time despite working on it quite a bit. I used loads of API's I'd never seen before and learning them, using them, and making sure they are correctly being used all in a week was quite a challenge. It was also quite a long program, going well into 300 lines for me, which so far in my other CS classes hasn't happened too many times. Definitely a jump from Lab0. The main issue I faced, and still face as I write this README is the sanity check. It gets stuck along the lines 214-221 and just doesn't continue with the rest of the tests. I have so far not been able to figure this out and has been frustrating me for 2 days now. I don't know what is wrong with my program that it is causing this since I have not heard of any other student facing this issue. It fails to download and untar something downloaded from our class website. Really running out of ideas while the clock ticks closer to the deadline.
+
+
+
+Sources:
+
+https://www.ibm.com/support/knowledgecenter/en/SSLTBW_2.3.0/com.ibm.zos.v2r3.bpxbd00/rttcga.htm
+https://www.daemon-systems.org/man/tcgetattr.3.html
+http://tldp.org/HOWTO/Serial-Programming-HOWTO/x115.html
+https://www.ibm.com/support/knowledgecenter/en/SSLTBW_2.2.0/com.ibm.zos.v2r2.bpxbd00/rtwaip.htm
+https://www.ibm.com/support/knowledgecenter/en/SSLTBW_2.3.0/com.ibm.zos.v2r3.bpxbd00/rttcga.htm
+https://www.ibm.com/support/knowledgecenter/SSLTBW_2.3.0/com.ibm.zos.v2r3.bpxbd00/rttcsa.htm#rttcsa
+https://stackoverflow.com/questions/21248840/example-of-waitpid-in-use
+https://qr.ae/TWnXBf
+http://man7.org/linux/man-pages/man2/poll.2.html
+https://linux.die.net/man/3/poll
+http://pubs.opengroup.org/onlinepubs/009695399/functions/poll.html
+https://linux.die.net/man/2/waitpid
+https://linux.die.net/man/3/waitpid
+https://linux.die.net/man/3/exec
+http://man7.org/linux/man-pages/man2/fork.2.html
+https://www.geeksforgeeks.org/fork-system-call/
+http://man7.org/linux/man-pages/man2/dup.2.html
+https://stackoverflow.com/questions/985051/what-is-the-purpose-of-fork
+https://stackoverflow.com/questions/7265718/fork-child-and-parent-processes
+https://stackoverflow.com/questions/21248840/example-of-waitpid-in-use
+My own lab0 files
+Both TA's slides
