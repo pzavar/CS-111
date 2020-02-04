@@ -1,0 +1,102 @@
+NAME: Parham Hajzavar
+EMAIL: parhamzavar@gmail.com
+ID: 405181239
+SLIPDAYS: 1
+
+A short description of the files included in this tarball:
+
+Lab2_list.c:
+Runs a multi-threaded program to manipulate a doubly linked list. It tests the behavior of these threads using different iteration and thread numbers to see how they work together. Includes options threads, iterations, yield, sync, and most recently added, list.
+
+SortedList.h:
+The header file including the function prototypes that are to be used in Lab2_list.c
+
+SortedList.c:
+The implementation of the aforementioned prototypes.
+
+lab2_list.csv:
+Contains the results for the second part of the lab.
+
+lab2b_list.gp:
+Utilizes gnuplot tool for lab2_list.csv
+*I commented all the test cases for lab2b_1/2.png from my Makefile because those were for some reason not working anymore after add
+
+Makefile:
+Builds the files, tests their executables with different arguments and sends the results to the .csv files mentioned above. Further, it creates the graphs, builds the tarball, and deletes the files created.
+
+Profile.out
+I am missing this file. It gave the error message "Floating point exception" and I did not have enough time to fix it.
+
+
+Q/A
+
+QUESTION 2.3.1 - CPU time in the basic list implementation:
+Q. Where do you believe most of the CPU time is spent in the 1 and 2-thread list tests ?
+
+A. For the 1 and 2-thread list tests, most of the CPU time is spent doing list operations such as inserting, looking up, and deleting.
+
+Q. Why do you believe these to be the most expensive parts of the code?
+
+A.These are the most expensive parts of the code because if there aren't more than 1 to 2 threads, there isn't a lot of time spent on threads waiting for one another for locks to become free. In essence, there is minimal contention for for locks. There is pretty much very little to zero time wasted on threads waiting to enter a critical section.
+
+Q. Where do you believe most of the CPU time is being spent in the high-thread spin-lock tests?
+
+A. Here, most of the time is spent on threads waiting (by spinning) for locks to become free. The fact that many threads have to wait for one another to be able to do their job adds more time to our overall run-time.
+
+Q. Where do you believe most of the CPU time is being spent in the high-thread mutex tests?
+
+A. For mutexes, most of the CPU time is spent in performing the expensive mutex functions and the corresponding context switches that add overhead to our run-time. There is a lot of rescheduling taking place => more overhead => more CPU time.
+
+
+QUESTION 2.3.2 - Execution Profiling:
+
+Q. Where (what lines of code) are consuming most of the CPU time when the spin-lock version of the list exerciser is run with a large number of threads?
+
+*The profile.out worked before I added the --list option to my lab2_list.c. The explanantion I give is based on what I observed from the original profile.out file I had. I did not include in this tarball. 
+
+A. The line of code while(__sync_lock_test_and_set(&spin,1)); was the line with the most CPU time.
+
+Q. Why does this operation become so expensive with large numbers of threads?
+
+A. The more threads we have, we have more threads just spinning waiting for the lock to become free for them to acquire. They are constantly checking if it's their turn to enter the critical section to do their job. As they spin, CPU cycles are constantly being wasted. 
+
+
+QUESTION 2.3.3 - Mutex Wait Time:
+Look at the average time per operation (vs. # threads) and the average wait-for-mutex time (vs. #threads).
+
+Q. Why does the average lock-wait time rise so dramatically with the number of contending threads?
+
+A. With more threads, there is now more contenders trying to acquire the same lock. Since only one of these contenders is able to acquire the lock at once, it means that the others are just going to wait, dramatically increasing the lock-wait time.
+
+Q. Why does the completion time per operation rise (less dramatically) with the number of contending threads?
+
+A. Despite each thread having to wait for a lock to become free to be able to access a particular critical section to complete its job, when a thread DOES enter the critical section, it safely does its job. It rises less dramatically because it's a time per operation, meaning we have at least one thread doing its job and making progress. 
+
+Q. How is it possible for the wait time per operation to go up faster (or higher) than the completion time per operation?
+
+A. With larger numbers of threads, the wait time to acquire a lock can even become higher than the time they'd take to complete their jobs. It's because the wait-time is shared between all the threads, and dependent on how many threads we have. It increases proportionally with the number of threads. However, the completion time per operation is independent of this. It is not affected by the number of threads as only one of these threads can enter the critical section anyway.
+
+
+QUESTION 2.3.4 - Performance of Partitioned Lists
+
+Q. Explain the change in performance of the synchronized methods as a function of the number of lists.
+
+A. The throughput increases as the number of lists is further increases. The reason is that threads are now able to acquire locks from different lists, which reduces the wait-time since now there is less contention for the locks. In turn, threads waste less time waiting to enter critical sections to do their jobs and performance improves.
+
+Q. Should the throughput continue increasing as the number of lists is further increased? If not, explain why not.
+
+A. No, it will eventually level off in a plateau. This point is when we increase the lists to reach the same number of threads we have, so there is essentially no contention in acquiring locks as every thread has its own lock.
+
+Q. It seems reasonable to suggest the throughput of an N-way partitioned list should be equivalent to the throughput of a single list with fewer (1/N) threads. Does this appear to be true in the above curves? If not, explain why not.
+
+A. This is probably not the case. The N-way partitioned list means less chance of waiting because it becomes a smaller and smaller list. As a result, there is less time spent in the critical section and so the two throughputs are not equivalent.
+
+
+
+
+Sources:
+Both TA slides
+https://stackoverflow.com/questions/3615476/floating-point-exception
+https://www.phys.uconn.edu/~rozman/Courses/P2200_16F/downloads/gnuplot-introduction-2016-10-25.pdf
+https://edg.uchicago.edu/tutorials/gnuplot/
+https://ubuntuforums.org/showthread.php?t=1746687
