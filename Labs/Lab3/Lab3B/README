@@ -1,1 +1,2 @@
-Note: we used C++11 and tested it on Visual Studio, and it would compile correctly without any warnings or errors. We were not able to properly compile it on the linux servers since it probably uses an old C++ version (C++98/96).
+Note: we used C++11 and tested it on Visual Studio, and it would compile correctly without any warnings or errors. 
+We were not able to properly compile it on the linux servers since it probably uses an old C++ version (C++98/96).
