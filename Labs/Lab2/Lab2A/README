@@ -1,0 +1,76 @@
+NAME: Parham Hajzavar
+EMAIL: parhamzavar@gmail.com
+ID: 405181239
+SLIPDAYS: 1
+
+A short description of the files included in this tarball:
+
+Lab2_add.c:
+Followed instructions outlined by the specs to implement command line options to create multiple threads, and added locking options with it too. It tests whether the threads work together in a synchronized manner to have a final sum of 0. It uses different numbers of threads and iterations.
+
+Lab2_list.c:
+Runs a multi-threaded program to manipulate a doubly linked list. Again, it tests the behavior of these threads using different iteration and thread numbers to see how they work together.
+
+SortedList.h:
+The header file including the function prototypes that are to be used in Lab2_list.c
+
+SortedList.c:
+The implementation of the aforementioned prototypes.
+
+lab2_add.csv:
+Contains the results for the first part of the lab.
+
+lab2_list.csv:
+Contains the results for the second part of the lab.
+
+lab2_add.gp:
+Utilizes gnuplot tool for lab2_add.csv
+
+lab2_list.gp:
+Utilizes gnuplot tool for lab2_list.csv
+
+Makefile:
+Builds the files, tests their executables with different arguments and sends the results to the .csv files mentioned above. Further, it creates the graphs, builds the tarball, and deletes the files created.
+
+
+
+Questions/Answers:
+
+2.1.1:
+With not many iterations, the threads have a much smaller chance of running into race condition problems. They are better at synchronizing with one another. With a significantly smaller number of iterations, the threads are much more more likely to achieve mutual exclusion. 
+
+2.1.2:
+Every time you yield, there is overhead as there is a context switch taking place. The additional time is going towards the OS saving the state of one thread and switching to another. Also, we can't get valid per-operation timings if we are using the --yield option. This is because we can't really estimate the time for a context switch taking place. That's unpredictable.
+
+2.1.3:
+It drops because with more iterations, the overhead cost of creating a thread becomes smaller and smaller and starts becoming much less noticeable when compared to the time to run these iterations.
+It eventually plateaus. That's what we can safely call the "correct" cost.
+
+2.1.4:
+Similar to 2.1.1, with lower number of threads, there is not a great need to keep the threads from having race conditions. The different ways of achieving mutual exclusion are not very important then.
+As the number of threads increases, there is now a bigger chance of having race conditions. To not have race conditions, the threads need to have mutual exclusion and so there will be a lot of waiting for locks to become free.
+
+
+
+*I was not able to get all the needed .png files to be able to complete the following questions using data, but I will nonetheless attempt to complete them based on behavior I expect from the graphs.
+
+2.2.1:
+The graphs for both cases SHOULD act quite similar. In both cases, we are observing the behavior as the number of threads and iterations increases. That is again because the additional overhead of context switching and extra instructions spent locking and unlocking. The list graph, however, might be increasing at a greater slope. That is because of the extra locking and unlocking taking place whenever we used functions from SortedList.c as well as the extra instructions regarding the linked list, its operations, and anything else done to manipulate it.
+
+2.2.2:
+With increasing threads, the graphs should again both be increasing. The mutex lock SHOULD however increasing more slowly than the spin lock as it is more scalable. The graphs are similar because both methods of locking have overhead of context switching and extra instructions of locking and unlocking. There is also more waiting for the threads to be able to achieve mutual exclusion.
+
+However, spin-locks have more overhead than the mutex. That is because spin locks require the waiting threads to be in this constant spinning phase waiting for the lock to become free for them to enter the critical section to do their part of the work. With smaller numbers of threads, there isn't much waiting so the behavior of the spin-lock and mutex are quite similar. As the number of threads grows, it adds lots of overhead as more CPU cycles are wasted. Mutexes simply put the waiting threads to sleep. These reasons explain how the graph for the spin lock might grow faster than the graph for mutexes, though I am unable to prove this. 
+
+
+
+Sources:
+
+https://www.geeksforgeeks.org/search-an-element-in-a-linked-list-iterative-and-recursive/
+https://docs.oracle.com/cd/E19253-01/816-5137/ggecq/index.html
+https://linux.die.net/man/3/pthread_mutex_init
+https://linux.die.net/man/3/pthread_spin_lock
+Textbook chapters 28-29
+https://www.geeksforgeeks.org/write-a-function-to-get-nth-node-in-a-linked-list/
+My 35L lab on multh-threading
+Diyu's slides

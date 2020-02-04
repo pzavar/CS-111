@@ -1,0 +1,2760 @@
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]joined threadID[0]
+list-none-none,1,10,1,30,107611,3587
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]joined threadID[0]
+list-none-none,1,100,1,300,93426,311
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]joined threadID[0]
+list-none-none,1,1000,1,3000,93424,31
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]joined threadID[0]
+list-none-none,1,10000,1,30000,376777,12
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]joined threadID[0]
+list-none-none,1,20000,1,60000,629183,10
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]joined threadID[0]
+joined threadID[1]
+list-none-none,2,1,1,6,114529,19088
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]joined threadID[0]
+joined threadID[1]
+list-none-none,2,10,1,60,138384,2306
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]joined threadID[0]
+joined threadID[1]
+list-none-none,2,100,1,600,142888,238
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]joined threadID[0]
+joined threadID[1]
+list-none-none,2,1000,1,6000,135941,22
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+list-none-none,4,1,1,12,165690,13807
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+list-none-none,4,10,1,120,171418,1428
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+list-none-none,4,100,1,1200,155864,129
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+list-none-none,4,1000,1,12000,445451,37
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+list-none-none,8,1,1,24,278016,11584
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+list-none-none,8,10,1,240,320396,1334
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+list-none-none,8,100,1,2400,311845,129
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+list-none-none,8,1000,1,24000,604039,25
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+list-none-none,12,1,1,36,364756,10132
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+list-none-none,12,10,1,360,406003,1127
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+list-none-none,12,100,1,3600,412348,114
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+list-none-none,12,1000,1,36000,780131,21
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]joined threadID[0]
+joined threadID[1]
+list-i-none,2,1,1,6,219016,36502
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]joined threadID[0]
+joined threadID[1]
+list-i-none,2,2,1,12,143846,11987
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]joined threadID[0]
+joined threadID[1]
+list-i-none,2,4,1,24,108482,4520
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]joined threadID[0]
+joined threadID[1]
+list-i-none,2,8,1,48,147244,3067
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]joined threadID[0]
+joined threadID[1]
+list-i-none,2,16,1,96,151742,1580
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]joined threadID[0]
+joined threadID[1]
+list-i-none,2,32,1,192,122226,636
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+list-i-none,4,1,1,12,198441,16536
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+list-i-none,4,2,1,24,148245,6176
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+list-i-none,4,4,1,48,144810,3016
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+list-i-none,4,8,1,96,171284,1784
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+list-i-none,4,16,1,192,211066,1099
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+list-i-none,8,1,1,24,300319,12513
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+list-i-none,8,2,1,48,259405,5404
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+list-i-none,8,4,1,96,307123,3199
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+list-i-none,8,8,1,192,324616,1690
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+list-i-none,8,16,1,384,324049,843
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+list-i-none,12,1,1,36,407459,11318
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+list-i-none,12,2,1,72,383994,5333
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+list-i-none,12,4,1,144,402712,2796
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+list-i-none,12,8,1,288,430052,1493
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+list-i-none,12,16,1,576,424596,737
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]joined threadID[0]
+joined threadID[1]
+list-id-none,2,1,1,6,139659,23276
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]joined threadID[0]
+joined threadID[1]
+list-id-none,2,2,1,12,145821,12151
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]joined threadID[0]
+joined threadID[1]
+list-id-none,2,4,1,24,145316,6054
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]joined threadID[0]
+joined threadID[1]
+list-id-none,2,8,1,48,145843,3038
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]joined threadID[0]
+joined threadID[1]
+list-id-none,2,16,1,96,163788,1706
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]joined threadID[0]
+joined threadID[1]
+list-id-none,2,32,1,192,167606,872
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+list-id-none,4,1,1,12,169321,14110
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+list-id-none,4,2,1,24,162882,6786
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+list-id-none,4,4,1,48,150769,3141
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+list-id-none,4,8,1,96,214099,2230
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+list-id-none,4,16,1,192,216697,1128
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+list-id-none,8,1,1,24,252614,10525
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+list-id-none,8,2,1,48,280873,5851
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+list-id-none,8,4,1,96,304717,3174
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+list-id-none,8,8,1,192,276588,1440
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+list-id-none,8,16,1,384,287897,749
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+list-id-none,12,1,1,36,395891,10996
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+list-id-none,12,2,1,72,390877,5428
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+list-id-none,12,4,1,144,389044,2701
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+list-id-none,12,8,1,288,402371,1397
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+list-id-none,12,16,1,576,417653,725
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]joined threadID[0]
+joined threadID[1]
+list-il-none,2,1,1,6,95035,15839
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]joined threadID[0]
+joined threadID[1]
+list-il-none,2,2,1,12,138786,11565
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]joined threadID[0]
+joined threadID[1]
+list-il-none,2,4,1,24,102524,4271
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]joined threadID[0]
+joined threadID[1]
+list-il-none,2,8,1,48,141883,2955
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]joined threadID[0]
+joined threadID[1]
+list-il-none,2,16,1,96,158293,1648
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]joined threadID[0]
+joined threadID[1]
+list-il-none,2,32,1,192,168884,879
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+list-il-none,4,1,1,12,142119,11843
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+list-il-none,4,2,1,24,209009,8708
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+list-il-none,4,4,1,48,211165,4399
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+list-il-none,4,8,1,96,211481,2202
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+list-il-none,4,16,1,192,126820,660
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+list-il-none,8,1,1,24,283370,11807
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+list-il-none,8,2,1,48,253686,5285
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+list-il-none,8,4,1,96,317766,3310
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+list-il-none,8,8,1,192,271884,1416
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+list-il-none,8,16,1,384,324513,845
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+list-il-none,12,1,1,36,397071,11029
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+list-il-none,12,2,1,72,428795,5955
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+list-il-none,12,4,1,144,398275,2765
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+list-il-none,12,8,1,288,394138,1368
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+list-il-none,12,16,1,576,431989,749
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]joined threadID[0]
+joined threadID[1]
+list-idl-none,2,1,1,6,141210,23535
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]joined threadID[0]
+joined threadID[1]
+list-idl-none,2,2,1,12,166452,13871
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]joined threadID[0]
+joined threadID[1]
+list-idl-none,2,4,1,24,169429,7059
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]joined threadID[0]
+joined threadID[1]
+list-idl-none,2,8,1,48,145275,3026
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]joined threadID[0]
+joined threadID[1]
+list-idl-none,2,16,1,96,165987,1729
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]joined threadID[0]
+joined threadID[1]
+list-idl-none,2,32,1,192,164790,858
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+list-idl-none,4,1,1,12,172609,14384
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+list-idl-none,4,2,1,24,171982,7165
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+list-idl-none,4,4,1,48,130105,2710
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+list-idl-none,4,8,1,96,207492,2161
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+list-idl-none,4,16,1,192,211707,1102
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+list-idl-none,8,1,1,24,305311,12721
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+list-idl-none,8,2,1,48,264857,5517
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+list-idl-none,8,4,1,96,300766,3132
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+list-idl-none,8,8,1,192,291423,1517
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+list-idl-none,8,16,1,384,318401,829
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+list-idl-none,12,1,1,36,379368,10538
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+list-idl-none,12,2,1,72,395655,5495
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+list-idl-none,12,4,1,144,366054,2542
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+list-idl-none,12,8,1,288,374448,1300
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+list-idl-none,12,16,1,576,423952,736
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+list-i-m,12,32,1,1152,1053359,914
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+list-id-m,12,32,1,1152,1221043,1059
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+list-il-m,12,32,1,1152,1073786,932
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+list-idl-m,12,32,1,1152,1044107,906
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+list-i-s,12,32,1,1152,1228967,1066
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+list-id-s,12,32,1,1152,1136674,986
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+list-il-s,12,32,1,1152,1351735,1173
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+list-idl-s,12,32,1,1152,1537933,1335
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]joined threadID[0]
+list-none-none,1,1000,1,3000,136260,45
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]joined threadID[0]
+list-none-m,1,1000,1,3000,195143,65
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]joined threadID[0]
+joined threadID[1]
+list-none-m,2,1000,1,6000,523011,87
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+list-none-m,4,1000,1,12000,1431795,119
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+list-none-m,8,1000,1,24000,3504340,146
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+list-none-m,12,1000,1,36000,5529657,153
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]Created threadID[12]Created threadID[13]Created threadID[14]Created threadID[15]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+joined threadID[12]
+joined threadID[13]
+joined threadID[14]
+joined threadID[15]
+list-none-m,16,1000,1,48000,7743533,161
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]Created threadID[12]Created threadID[13]Created threadID[14]Created threadID[15]Created threadID[16]Created threadID[17]Created threadID[18]Created threadID[19]Created threadID[20]Created threadID[21]Created threadID[22]Created threadID[23]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+joined threadID[12]
+joined threadID[13]
+joined threadID[14]
+joined threadID[15]
+joined threadID[16]
+joined threadID[17]
+joined threadID[18]
+joined threadID[19]
+joined threadID[20]
+joined threadID[21]
+joined threadID[22]
+joined threadID[23]
+list-none-m,24,1000,1,72000,12199331,169
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]joined threadID[0]
+list-none-s,1,1000,1,3000,135408,45
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]joined threadID[0]
+joined threadID[1]
+list-none-s,2,1000,1,6000,213743,35
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+list-none-s,4,1000,1,12000,2143180,178
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+list-none-s,8,1000,1,24000,11044306,460
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+list-none-s,12,1000,1,36000,24841579,690
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]Created threadID[12]Created threadID[13]Created threadID[14]Created threadID[15]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+joined threadID[12]
+joined threadID[13]
+joined threadID[14]
+joined threadID[15]
+list-none-s,16,1000,1,48000,34525471,719
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]Created threadID[12]Created threadID[13]Created threadID[14]Created threadID[15]Created threadID[16]Created threadID[17]Created threadID[18]Created threadID[19]Created threadID[20]Created threadID[21]Created threadID[22]Created threadID[23]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+joined threadID[12]
+joined threadID[13]
+joined threadID[14]
+joined threadID[15]
+joined threadID[16]
+joined threadID[17]
+joined threadID[18]
+joined threadID[19]
+joined threadID[20]
+joined threadID[21]
+joined threadID[22]
+joined threadID[23]
+list-none-s,24,1000,1,72000,76322712,1060
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]joined threadID[0]
+list-none-none,1,10,1,30,132748,4424
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]joined threadID[0]
+list-none-none,1,100,1,300,143465,478
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]joined threadID[0]
+list-none-none,1,1000,1,3000,143084,47
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]joined threadID[0]
+list-none-none,1,10000,1,30000,447082,14
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]joined threadID[0]
+list-none-none,1,20000,1,60000,753845,12
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]joined threadID[0]
+joined threadID[1]
+list-none-none,2,1,1,6,126991,21165
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]joined threadID[0]
+joined threadID[1]
+list-none-none,2,10,1,60,126816,2113
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]joined threadID[0]
+joined threadID[1]
+list-none-none,2,100,1,600,139984,233
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]joined threadID[0]
+joined threadID[1]
+list-none-none,2,1000,1,6000,153746,25
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+list-none-none,4,1,1,12,151516,12626
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+list-none-none,4,10,1,120,168293,1402
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+list-none-none,4,100,1,1200,193449,161
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+list-none-none,4,1000,1,12000,246434,20
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+list-none-none,8,1,1,24,308507,12854
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+list-none-none,8,10,1,240,312993,1304
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+list-none-none,8,100,1,2400,322196,134
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+list-none-none,8,1000,1,24000,431944,17
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+list-none-none,12,1,1,36,439851,12218
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+list-none-none,12,10,1,360,464548,1290
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+list-none-none,12,100,1,3600,399364,110
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+list-none-none,12,1000,1,36000,615222,17
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]joined threadID[0]
+joined threadID[1]
+list-i-none,2,1,1,6,152487,25414
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]joined threadID[0]
+joined threadID[1]
+list-i-none,2,2,1,12,129724,10810
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]joined threadID[0]
+joined threadID[1]
+list-i-none,2,4,1,24,128703,5362
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]joined threadID[0]
+joined threadID[1]
+list-i-none,2,8,1,48,114354,2382
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]joined threadID[0]
+joined threadID[1]
+list-i-none,2,16,1,96,141496,1473
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]joined threadID[0]
+joined threadID[1]
+list-i-none,2,32,1,192,154713,805
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+list-i-none,4,1,1,12,182692,15224
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+list-i-none,4,2,1,24,191625,7984
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+list-i-none,4,4,1,48,166160,3461
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+list-i-none,4,8,1,96,199553,2078
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+list-i-none,4,16,1,192,164519,856
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+list-i-none,8,1,1,24,316707,13196
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+list-i-none,8,2,1,48,291882,6080
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+list-i-none,8,4,1,96,263152,2741
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+list-i-none,8,8,1,192,277633,1446
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+list-i-none,8,16,1,384,335674,874
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+list-i-none,12,1,1,36,450547,12515
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+list-i-none,12,2,1,72,400353,5560
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+list-i-none,12,4,1,144,452028,3139
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+list-i-none,12,8,1,288,416771,1447
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+list-i-none,12,16,1,576,385563,669
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]joined threadID[0]
+joined threadID[1]
+list-id-none,2,1,1,6,124372,20728
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]joined threadID[0]
+joined threadID[1]
+list-id-none,2,2,1,12,141584,11798
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]joined threadID[0]
+joined threadID[1]
+list-id-none,2,4,1,24,126059,5252
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]joined threadID[0]
+joined threadID[1]
+list-id-none,2,8,1,48,127822,2662
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]joined threadID[0]
+joined threadID[1]
+list-id-none,2,16,1,96,136559,1422
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]joined threadID[0]
+joined threadID[1]
+list-id-none,2,32,1,192,216808,1129
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+list-id-none,4,1,1,12,169524,14127
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+list-id-none,4,2,1,24,188281,7845
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+list-id-none,4,4,1,48,184583,3845
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+list-id-none,4,8,1,96,193081,2011
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+list-id-none,4,16,1,192,210234,1094
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+list-id-none,8,1,1,24,321154,13381
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+list-id-none,8,2,1,48,306243,6380
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+list-id-none,8,4,1,96,291716,3038
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+list-id-none,8,8,1,192,287482,1497
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+list-id-none,8,16,1,384,283099,737
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+list-id-none,12,1,1,36,455068,12640
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+list-id-none,12,2,1,72,401914,5582
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+list-id-none,12,4,1,144,408223,2834
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+list-id-none,12,8,1,288,449208,1559
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+list-id-none,12,16,1,576,469351,814
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]joined threadID[0]
+joined threadID[1]
+list-il-none,2,1,1,6,95378,15896
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]joined threadID[0]
+joined threadID[1]
+list-il-none,2,2,1,12,112976,9414
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]joined threadID[0]
+joined threadID[1]
+list-il-none,2,4,1,24,145515,6063
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]joined threadID[0]
+joined threadID[1]
+list-il-none,2,8,1,48,158217,3296
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]joined threadID[0]
+joined threadID[1]
+list-il-none,2,16,1,96,154611,1610
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]joined threadID[0]
+joined threadID[1]
+list-il-none,2,32,1,192,175519,914
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+list-il-none,4,1,1,12,211727,17643
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+list-il-none,4,2,1,24,204759,8531
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+list-il-none,4,4,1,48,188949,3936
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+list-il-none,4,8,1,96,232659,2423
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+list-il-none,4,16,1,192,214468,1117
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+list-il-none,8,1,1,24,332096,13837
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+list-il-none,8,2,1,48,335272,6984
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+list-il-none,8,4,1,96,302840,3154
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+list-il-none,8,8,1,192,312106,1625
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+list-il-none,8,16,1,384,336286,875
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+list-il-none,12,1,1,36,404782,11243
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+list-il-none,12,2,1,72,494224,6864
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+list-il-none,12,4,1,144,432072,3000
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+list-il-none,12,8,1,288,420053,1458
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+list-il-none,12,16,1,576,453232,786
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]joined threadID[0]
+joined threadID[1]
+list-idl-none,2,1,1,6,139394,23232
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]joined threadID[0]
+joined threadID[1]
+list-idl-none,2,2,1,12,146086,12173
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]joined threadID[0]
+joined threadID[1]
+list-idl-none,2,4,1,24,150910,6287
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]joined threadID[0]
+joined threadID[1]
+list-idl-none,2,8,1,48,144049,3001
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]joined threadID[0]
+joined threadID[1]
+list-idl-none,2,16,1,96,157438,1639
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]joined threadID[0]
+joined threadID[1]
+list-idl-none,2,32,1,192,177893,926
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+list-idl-none,4,1,1,12,204375,17031
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+list-idl-none,4,2,1,24,206468,8602
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+list-idl-none,4,4,1,48,205555,4282
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+list-idl-none,4,8,1,96,217716,2267
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+list-idl-none,4,16,1,192,193274,1006
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+list-idl-none,8,1,1,24,312144,13006
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+list-idl-none,8,2,1,48,341940,7123
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+list-idl-none,8,4,1,96,351729,3663
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+list-idl-none,8,8,1,192,291906,1520
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+list-idl-none,8,16,1,384,308950,804
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+list-idl-none,12,1,1,36,530305,14730
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+list-idl-none,12,2,1,72,434668,6037
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+list-idl-none,12,4,1,144,382038,2653
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+list-idl-none,12,8,1,288,386505,1342
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+list-idl-none,12,16,1,576,422921,734
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+list-i-m,12,32,1,1152,1016235,882
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+list-id-m,12,32,1,1152,1112809,965
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+list-il-m,12,32,1,1152,1063792,923
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+list-idl-m,12,32,1,1152,1082715,939
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+list-i-s,12,32,1,1152,1673285,1452
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+list-id-s,12,32,1,1152,1522328,1321
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+list-il-s,12,32,1,1152,1669681,1449
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+list-idl-s,12,32,1,1152,1529678,1327
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]joined threadID[0]
+list-none-none,1,1000,1,3000,114532,38
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]joined threadID[0]
+list-none-m,1,1000,1,3000,242113,80
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]joined threadID[0]
+joined threadID[1]
+list-none-m,2,1000,1,6000,641879,106
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+list-none-m,4,1000,1,12000,1404678,117
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+list-none-m,8,1000,1,24000,3572227,148
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+list-none-m,12,1000,1,36000,5814458,161
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]Created threadID[12]Created threadID[13]Created threadID[14]Created threadID[15]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+joined threadID[12]
+joined threadID[13]
+joined threadID[14]
+joined threadID[15]
+list-none-m,16,1000,1,48000,7513987,156
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]Created threadID[12]Created threadID[13]Created threadID[14]Created threadID[15]Created threadID[16]Created threadID[17]Created threadID[18]Created threadID[19]Created threadID[20]Created threadID[21]Created threadID[22]Created threadID[23]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+joined threadID[12]
+joined threadID[13]
+joined threadID[14]
+joined threadID[15]
+joined threadID[16]
+joined threadID[17]
+joined threadID[18]
+joined threadID[19]
+joined threadID[20]
+joined threadID[21]
+joined threadID[22]
+joined threadID[23]
+list-none-m,24,1000,1,72000,12110106,168
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]joined threadID[0]
+list-none-s,1,1000,1,3000,118674,39
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]joined threadID[0]
+joined threadID[1]
+list-none-s,2,1000,1,6000,1162176,193
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+list-none-s,4,1000,1,12000,3755524,312
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+list-none-s,8,1000,1,24000,12172908,507
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+list-none-s,12,1000,1,36000,23691954,658
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]Created threadID[12]Created threadID[13]Created threadID[14]Created threadID[15]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+joined threadID[12]
+joined threadID[13]
+joined threadID[14]
+joined threadID[15]
+list-none-s,16,1000,1,48000,39242305,817
+About to execute sighandler
+Reached start time
+about to create threads
+Created threadID[0]Created threadID[1]Created threadID[2]Created threadID[3]Created threadID[4]Created threadID[5]Created threadID[6]Created threadID[7]Created threadID[8]Created threadID[9]Created threadID[10]Created threadID[11]Created threadID[12]Created threadID[13]Created threadID[14]Created threadID[15]Created threadID[16]Created threadID[17]Created threadID[18]Created threadID[19]Created threadID[20]Created threadID[21]Created threadID[22]Created threadID[23]joined threadID[0]
+joined threadID[1]
+joined threadID[2]
+joined threadID[3]
+joined threadID[4]
+joined threadID[5]
+joined threadID[6]
+joined threadID[7]
+joined threadID[8]
+joined threadID[9]
+joined threadID[10]
+joined threadID[11]
+joined threadID[12]
+joined threadID[13]
+joined threadID[14]
+joined threadID[15]
+joined threadID[16]
+joined threadID[17]
+joined threadID[18]
+joined threadID[19]
+joined threadID[20]
+joined threadID[21]
+joined threadID[22]
+joined threadID[23]
+list-none-s,24,1000,1,72000,82368321,1144
