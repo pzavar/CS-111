@@ -1,0 +1,32 @@
+NAME: Parham Hajzavar
+EMAIL: parhamzavar@gmail.com
+ID: 405181239
+SLIPDAYS: 0
+
+A short description of the files included in this tarball:
+
+lab4b.c
+This is the .c file that runs on my beaglebone taking in period, scale, and log options as arguments to report a timestamp in the proper format as required by the spec. It demonstrates the use of the MRAA library to record temperatures and uses functions from time.h to create the timestamp.
+
+Makefile:
+It performs the following operations.
+   1. default - uses gcc to build the program executable
+   2. check - runs a small smoke test the ensure the program is functional
+   3. dist - builds the tarball that is to be submitted
+   4. clean - deletes the file created
+
+
+Sources used in this lab:
+https://cboard.cprogramming.com/c-programming/34297-how-set-timer.html
+https://stackoverflow.com/questions/459691/best-timing-method-in-c
+https://stackoverflow.com/questions/23856306/how-to-create-log-file-in-c
+https://stackoverflow.com/questions/17167949/how-to-use-timer-in-c
+https://stackoverflow.com/questions/15102992/what-is-the-difference-between-stdin-and-stdin-fileno
+http://man7.org/linux/man-pages/man2/poll.2.html
+https://iotdk.intel.com/docs/master/mraa/
+https://iotdk.intel.com/docs/master/mraa/debugging.html
+https://drive.google.com/drive/folders/0B6dyEb8VXZo-N3hVcVI0UFpWSVk
+https://www.codingunit.com/c-tutorial-how-to-use-time-and-date-in-c
+https://en.wikipedia.org/wiki/C_date_and_time_functions#Example
+https://stackoverflow.com/questions/12676804/printing-char-arrays-in-c
+& both TA slides
