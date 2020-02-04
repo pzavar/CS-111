@@ -1,0 +1,30 @@
+NAME: Parham Hajzavar
+EMAIL: parhamzavar@gmail.com
+ID: 405181239
+SLIPDAYS: 0
+
+The files included in this tar file are described as follows:
+
+lab1b-client.c:
+This is the client.
+
+lab1b-server.c
+This is the server.
+
+Makefile:
+This is the makefile
+
+Obstacles:
+Learning socket programming took time, and further studying how to use encryption was a lot of work (for a week's work). As these programs go more into the heart of the OS and more advanced, it becomes harder and harder to trace, debug, and understand.
+
+Sources:
+http://man7.org/linux/man-pages/man2/open.2.html
+https://www.ibm.com/developerworks/community/blogs/58e72888-6340-46ac-b488-d31aa4058e9c/entry/understanding_linux_open_system_call?lang=en
+https://stackoverflow.com/questions/15798450/open-with-o-creat-was-it-opened-or-created
+http://www.cs.rpi.edu/~moorthy/Courses/os98/Pgms/socket.html
+https://linux.die.net/man/3/mcrypt
+https://www.geeksforgeeks.org/tcp-server-client-implementation-in-c/
+http://www.trytoprogram.com/c-examples/c-program-to-encrypt-and-decrypt-string/
+My own lab1a.c
+Both TA slides from this week and last week
++ some sources from last week's lab for poll, 
