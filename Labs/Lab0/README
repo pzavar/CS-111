@@ -1,0 +1,71 @@
+NAME: Parham Hajzavar
+EMAIL: parhamzavar@gmail.com
+ID: 405181239
+SLIPDAYS: 0
+
+The files included in this tar file are described as follows.
+
+lab0.c:
+The C file that copies its standard input to its standard output by read(2)-ing from file descriptor 0 and wite(2)-ing to file descriptor 1. Finally, it exits with return code 0. It also includes the optional command line arguments "input", "output", "segfault", and "catch". It makes use of the convoluted API getopt_long(3) and is designed to handle errors with stderr.
+
+backtrace.png:
+This image file is a screenshot of the state of the program right after it was terminated after running into a segmentation fault. The program is first compiled and then, using gdb, start debugging the executable. I ran the program with --segfault, and as expected, the program terminated with a segmentation fault. I then used the "bt" command to see the backtrace of the program stack.
+
+breakpoint.png:
+This is also a screenshot of the program when it is in the gdb debugger, but with a breakpoint set at the line where the segmentation fault actually takes place. Using the gdb command "b <line number>", "r --segfault", and "si", I was able to inspect the segmentation fault more closely. By printing the value of the ptr variable, I can see that is is 0x0, indicating that the program tried to dereference a nullptr.
+
+Makefile:
+This file is used to run smoke tests, tar, and clean the other files. I used the commands "make", "make check", "make clean", and "make dist" to do the above mentioned. The smoke tests run help me test the functionality of individual components of the program better. I will describe what each in my makefile does.
+
+default:
+This is to compile to the program and create its executable using gcc.
+
+check:
+This is to test my smoke tests using the default (see above). The smoke tests are as follows.
+
+checkIO:
+This is to test whether the program does the copying from input to output and exit with 0 (being copy successful). 
+
+checkArgument:
+This is to test the command line argument being one of the valid options. It is to fail when the argument passed is bogus.
+
+checkOut:
+This tests the functionality of the program being able to successfully create the output file passed on the command line. It required permission changes using chmod to work.
+
+checkIn:
+This is to test the input functionality of the program to ensure it reads and copies the input into my in.txt file correctly.
+
+checkSegfault:
+This tests whether the program actually hits a segmentation fault when the command line argument "--segfault" is passed. 
+
+checkCatch1:
+This tests the segfault command line argument when used with catch to see if the program catches the fault correctly.
+
+checkCatch2
+This test does the same as checkCatch1, but it tests if it still passes the catch segfault test with the order of segfault and catch reversed.
+
+That concludes the smoke tests.
+
+dist:
+This is what I use to tar all my files together to prepare them for submission.
+
+clean:
+This is what I use to delete all files created.
+
+Obstacles:
+Despite thoroughly enjoying this project, I ran into quite a few roadblocks. Firstly, reading the spec, it said to have "optional" arguments for the input and output, so I used "optional_argument" instead of "required_argument", and for a long time I couldn't figure out why my code wouldn't work. There were other minor issues like leaving the "break;" in my switch statement inside the else statement for one case. 
+
+I also struggled with the makefile. I had written makefiles in CS 35L, but nothing of this magnitude. The knowledge I had of makefiles was quite preliminary and I had to brush up on it using online resources. I was not comfortable with the bash code as I was quite rusty.
+
+I read the spec quite a few times before I felt comfortable enough to understand what my C file had to do.
+
+Sources used:
+http://man7.org/linux/man-pages/man2/open.2.html
+https://linux.die.net/man/3/getopt_long
+https://www.programiz.com/c-programming/c-file-input-output
+https://www.gnu.org/software/libc/manual/html_node/Getopt-Long-Option-Example.html
+http://www.informit.com/articles/article.aspx?p=175771&seqNum=3
+https://stackoverflow.com/questions/7489093/getopt-long-proper-way-to-use-it
+https://stackoverflow.com/questions/4927676/implementing-make-check-or-make-test
+My 35L lab 5 with Professor Eggert (Winter '19)
+
